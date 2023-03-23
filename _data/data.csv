@@ -1,2 +1,2 @@
 venue,address,country,latitude,longitude,humandate,humantime,startdate,enddate,instructor,helper,carpentry,curriculum,title,slug,flavor
-NA,Vrije Universiteit Amsterdam,NA,52.33396225,4.865196500737312,"April 03 - 03, 2023",9:30 - 17:00 CEST,2023-04-02T22:00:00Z,2023-04-02T22:00:00Z,"Djura Smits, Maurice de Kleijn", "Pranav Chandramouli","Maurice de Kleijn, Carsten Schnober",ds,ds-dl-intro,Introduction to Deep Learning,2023-04-03-ds-dl-intro-caa,NA
+NA,Vrije Universiteit Amsterdam,NA,52.33396225,4.865196500737312,"April 03 - 03, 2023",9:00 - 17:30 CEST,2023-04-02T22:00:00Z,2023-04-02T22:00:00Z,"Djura Smits, Maurice de Kleijn, Pranav Chandramouli","Carsten Schnober",ds,ds-dl-intro,Introduction to Deep Learning,2023-04-03-ds-dl-intro-caa,NA
