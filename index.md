@@ -483,9 +483,9 @@ during the workshop.
 {% include lc/setup.html %}
 {% elsif info.carpentry == "ds" %}
 {% capture content %}
-{% remote_include {{lesson_meta}}/setup.md %}
+{% remote_include {{lesson_meta}}/setup-caa.md %}
 {% endcapture %}
-{% if content contains "/setup.md" %}
+{% if content contains "/setup-caa.md" %}
   {% capture setup %}
   {% remote_include https://raw.githubusercontent.com/{{content | strip}} %}
   {% endcapture %}
